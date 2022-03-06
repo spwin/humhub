@@ -33,6 +33,8 @@ favicon.ico
 /.buildpath
 /.project
 /protected/vendor/
+/protected/modules/
+/protected/runtime/cache/
 
 **/tests/codeception/_support/_generated/**
 
